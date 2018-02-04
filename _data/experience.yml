@@ -3,20 +3,17 @@
 - company: Rsupport Corporation
   position: Front-end Web Deveoper
   duration: August, 2017 &mdash; November, 2017
-  summary: I worked as a front-end engineer at this company with great companian. I used React, Redux	to make front-veiew of Mobile Application Test Automation Solution, whick is called by TAAS.
-  <ul class="resume-item-list"><li>React, Redux, webpack</li><li>SCSS, PCSS</li><li>Test Automation</li></ul>
+  summary: I worked as a front-end engineer at this company with great companian. I used React, Redux	to make front-veiew of Mobile Application Test Automation Solution, whick is called by TAAS.<ul class="resume-item-list"><li>React, Redux, webpack</li><li>SCSS, PCSS</li><li>Test Automation</li></ul>
 
 # Windmill Crank Operator
 - company: Namee Corporation
   position: Full Stack Web Developer
   duration:  Nov, 2015 &mdash; July, 2017
-  summary: fdsa
-    <ul class="resume-item-list"><li>React, Redux, webpack</li><li>SCSS, PCSS</li><li>Test Automation</li></ul>
+  summary: fdsa<ul class="resume-item-list"><li>React, Redux, webpack</li><li>SCSS, PCSS</li><li>Test Automation</li></ul>
 
 
 # Front Desk Attendant
 - company: Plainit
   position: Sales, Full Stack Developer
   duration:   May, 2013  &mdash; Nov, 2015
-  summary: Boy, 
-    <ul class="resume-item-list"><li>React, Redux, webpack</li><li>SCSS, PCSS</li><li>Test Automation</li></ul>
+  summary: Boy,<ul class="resume-item-list"><li>React, Redux, webpack</li><li>SCSS, PCSS</li><li>Test Automation</li></ul>
