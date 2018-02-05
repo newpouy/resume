@@ -18,4 +18,10 @@
 - project: 3Duino
   role: leader
   duration: 2014
-  description: club for people who want to learn the way how to use arduino and 3D printer
+  description: managed a club for people who want to learn the way how to use arduino and 3D printer
+
+- project: git coursework for team
+  role: leader
+  duration: 2016
+  url: "https://github.com/newpouy/git-coursework-for-team"
+  description: organized and led a study group to learn how to use git for team
