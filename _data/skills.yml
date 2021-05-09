@@ -1,15 +1,15 @@
 # Skills
 # Infra
 - skill: Infrastructure
-  description: Linux, AWS various functions such as EC2, RDS, Lambda and so on
+  description: Linux, AWS various functions such as EC2, RDS, Lambda and so on, Azure Services
 
 # Back-end
 - skill: Back-end, Database
-  description: Java, Spring, nodejs, Mysql
+  description: Java, Spring, nodejs, Mysql, PHP, Laravel
 
 # Front-end
 - skill: Front-end
-  description: javacript, jquery, react, CSS, SCSS
+  description: React, Vue, javacript, jquery, CSS, SCSS, Electron
 
 # Mobile
 - skill: Mobile
